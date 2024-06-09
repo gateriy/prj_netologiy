@@ -79,7 +79,7 @@ double SummN() {
 //реализовал через конвертацию string и vector (по предложенному варианту не пошел)
 int SummNumeric() {
 	std::string num{}, num_x{};
-	std::vector<int>numeric{0};
+	std::vector<int>numeric{};
 	int res{0};
 
 	std::cout << "Input numeric: ";
@@ -92,7 +92,9 @@ int SummNumeric() {
 	}
 	if (!numeric.empty()) {
 		for (const auto& n : numeric) {
-			res = res + numeric.at(n);
+			res = res + n;
+			//std::cout << n << std::endl;
+
 		}
 	}
 	else res = 0;
