@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\prj_netologiy\\Arr\\Task_3_(array)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1440A023-B471-472D-8026-6376F7258061}|Task_3_(array).vcxproj|D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\prj_netologiy\\Arr\\Task_3_(array)\\Task_3_(array).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1440A023-B471-472D-8026-6376F7258061}|Task_3_(array).vcxproj|solutionrelative:Task_3_(array).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_3_(array).cpp",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\prj_netologiy\\Arr\\Task_3_(array)\\Task_3_(array).cpp",
+              "RelativeDocumentMoniker": "Task_3_(array).cpp",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\prj_netologiy\\Arr\\Task_3_(array)\\Task_3_(array).cpp",
+              "RelativeToolTip": "Task_3_(array).cpp",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAYwGoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T10:37:05.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
